@@ -2,7 +2,7 @@
 
 # Set the version of DevShop you want.
 # Releases: https://github.com/opendevshop/devshop/releases
-VERSION=1.0.0-rc2
+VERSION=1.0.0-rc3
 
 # Set the hostname to a fully qualified domain name that you will point to this server's IP.
 HOSTNAME=devshop.domain.com
