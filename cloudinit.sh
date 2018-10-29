@@ -2,13 +2,13 @@
 
 # Set the version of DevShop you want.
 # Releases: https://github.com/opendevshop/devshop/releases
-VERSION=1.3.4
+VERSION=1.4.0
 
 # Set to your email address. The devmaster user 1 account will be set to this mail, and you will get an email when it is ready.
 EMAIL=jon@thinkdrop.net
 
 # Set the hostname to a fully qualified domain name that you will point to this server's IP.
-HOSTNAME=devshop.domain.com
+HOSTNAME=myserver.devshop.cloud
 
 # Download and run the script.
 wget https://raw.githubusercontent.com/opendevshop/devshop/$VERSION/install.sh
